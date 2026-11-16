@@ -4,8 +4,6 @@ A dependency-free Ruby gem that makes a basic animated horizontal bar chart SVG.
 
 ## Install
 
-After the gem is published:
-
 ```sh
 gem install livelychart_svg
 ```
